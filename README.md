@@ -4,7 +4,7 @@ Ruby String Calculator
 
 # Installation
 
-`$ git clone git@github.com:kanchankotiya2017/calculator-string.git`
+`$ git clone https://github.com/kanchankotiya/calculate_string.git`
 
 Ruby:
 
