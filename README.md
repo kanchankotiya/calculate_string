@@ -8,7 +8,7 @@ Ruby String Calculator
 
 Ruby:
 
-`$ cd calculator-string`
+`$ cd calculate_string`
 
 `$ rspec`
 
